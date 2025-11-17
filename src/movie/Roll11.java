@@ -1,7 +1,6 @@
 package movie;
 
-public class Login11 {
-    public void doLogin11() {
-        System.out.println(" 서연경 로그인 성공!");
-    }
+public class Roll11 {
+    public void Roll11() {
+        System.out.println(" Roll 11 ");}
 }
